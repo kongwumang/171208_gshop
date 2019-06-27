@@ -21,5 +21,6 @@ export default {
  .app
    width 100%
    height 100%
+   color yellow
    background #f5f5f5
 </style>
